@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A powerful tool for visualizing complex mathematical functions. Users can input mathematical expressions, and the application will draw the corresponding graphs. With features like zooming, scrolling, and a history bar, our graphing calculator offers a seamless experience for exploring mathematical functions. Additionally, the application stores previous functions in a text file, allowing users to easily access and recall their calculations even after closing the app.
+The Graphing Calculator allows users to input mathematical expressions and generate corresponding graphs. With essential features like zooming, scrolling, and a history bar, our calculator provides a smooth experience for exploring mathematical concepts. Additionally, the application stores previous functions in a text file for easy access and recall across sessions.
 
 ## Features
 
